@@ -1,1 +1,1 @@
-Hi! I'm Bob. I'm new here. How about you?
+Hi! I'm Bob. I'm reviewing using Git. How about you?
